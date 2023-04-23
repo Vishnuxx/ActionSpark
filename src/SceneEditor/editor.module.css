@@ -1,0 +1,15 @@
+:root {
+    --btn_bg: aliceblue;
+    --btn_clr: black;
+    --btn_hvr_bg : rgb(219, 102, 0);
+    --btn_hvr_clr: white;
+
+    --select_bg: rgb(197, 210, 222);
+    user-select: none;
+}
+
+.editor {
+    width: 100vw;
+    height: 100vh;
+    
+}
